@@ -8,7 +8,7 @@ class BankAccount {
        string name;
        int balance;
        int accountNumber;
-       BankAccount(string name)
+       BankAccount(string name, int balance)
 
 
 
