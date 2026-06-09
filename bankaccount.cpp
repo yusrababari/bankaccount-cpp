@@ -7,7 +7,9 @@ class BankAccount {
     public:
        string name;
        int balance;
+       int accountNumber;
        
+
 
 
 
