@@ -8,7 +8,9 @@ class BankAccount {
        string name;
        int balance;
        int accountNumber;
-       BankAccount(string name, int balance)
+       BankAccount(string name, int balance,,int accountNumber){
+        // initialisation of variables
+       }
 
 
 
