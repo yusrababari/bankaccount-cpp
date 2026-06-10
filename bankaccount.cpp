@@ -15,6 +15,7 @@ class BankAccount {
         // variables comes before constructor
         balance = accountBalance;
         number= accountNumber;
+       }
 
 
          
