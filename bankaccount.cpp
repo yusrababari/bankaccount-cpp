@@ -13,6 +13,8 @@ class BankAccount {
         // variables in constructor have different names
         name=accountNumber;
         // variables comes before constructor
+        balance = accountBalance;
+        
 
          
        }
