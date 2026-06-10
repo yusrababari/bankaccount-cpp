@@ -8,9 +8,10 @@ class BankAccount {
        string name;
        int balance;
        int accountNumber;
-       BankAccount(string name, int balance,,int accountNumber){
+       BankAccount(string accountName, int balance,,int accountNumber){
         // initialisation of variables
         // variables in constructor have different names
+        
          
        }
 
