@@ -11,6 +11,8 @@ class BankAccount {
        BankAccount(string accountName, int accountBalance,,int accountNumber){
         // initialisation of variables
         // variables in constructor have different names
+        name=
+        // variables comes before constructor
 
          
        }
