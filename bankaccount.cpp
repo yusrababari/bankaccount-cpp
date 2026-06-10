@@ -10,7 +10,7 @@ class BankAccount {
        int accountNumber;
        BankAccount(string name, int balance,,int accountNumber){
         // initialisation of variables
-        // variables in constructo have different names
+        // variables in constructor have different names
          
        }
 
