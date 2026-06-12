@@ -18,6 +18,8 @@ class BankAccount {
        }
        // print variables
            cout << balance; 
+           cout << name;
+           
 
 
 
