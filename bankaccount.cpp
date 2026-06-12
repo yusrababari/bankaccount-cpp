@@ -16,13 +16,16 @@ class BankAccount {
         balance = accountBalance;
         number= accountNumber;
        }
+
+int main(){
+
        // print variables
            cout << balance; 
            cout << name;
            cout << number;
            
 
-
+}
 
 
          
