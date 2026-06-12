@@ -21,7 +21,7 @@ int main(){
 
        // print variables
            cout << Balance:balance; 
-           cout << name;
+           cout << Name:name;
            cout << number;
            
 
