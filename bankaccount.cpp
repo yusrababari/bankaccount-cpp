@@ -16,6 +16,7 @@ class BankAccount {
         balance = accountBalance;
         number= accountNumber;
        }
+       // print variables
 
 
          
