@@ -20,7 +20,7 @@ class BankAccount {
 int main(){
 
        // print variables
-           cout << balance; 
+           cout << Balance:balance; 
            cout << name;
            cout << number;
            
