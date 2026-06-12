@@ -22,7 +22,7 @@ int main(){
        // print variables
            cout << Balance:balance; 
            cout << Name:name;
-           cout << number;
+           cout << Number:number;
            
 
 }
