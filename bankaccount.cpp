@@ -17,7 +17,8 @@ class BankAccount {
         number= accountNumber;
        }
     void deposit(double amount){
-        
+        if (amount > balance)
+
     }
 int main(){
 
