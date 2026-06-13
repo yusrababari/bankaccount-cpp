@@ -21,6 +21,7 @@ class BankAccount {
             cout << "Insufficient funds!\n"
         else {
             balance -= amount;
+            cout << "Withdrew £ << amount << "\n";
         }
 
     }
