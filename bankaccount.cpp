@@ -16,7 +16,9 @@ class BankAccount {
         balance = accountBalance;
         number= accountNumber;
        }
-
+    void deposit(double amount){
+        
+    }
 int main(){
 
        // print variables
