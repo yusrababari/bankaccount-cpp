@@ -26,6 +26,7 @@ class BankAccount {
         }
             void printStatement(){
                cout << "Account owner: " << name << "\n";
+               cout << "Balance:"  << balance << "\n";
             }
 
     }
