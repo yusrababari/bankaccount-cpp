@@ -22,7 +22,10 @@ class BankAccount {
         else {
             balance -= amount;
             cout << "Withdrew £ << amount << "\n";
+
         }
+            void printStatement(){
+            }
 
     }
 int main(){
