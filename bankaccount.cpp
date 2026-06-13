@@ -18,6 +18,7 @@ class BankAccount {
        }
     void deposit(double amount){
         if (amount > balance)
+            cout << "Insufficient funds!\n"
 
     }
 int main(){
